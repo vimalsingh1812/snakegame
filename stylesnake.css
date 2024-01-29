@@ -1,0 +1,39 @@
+body {
+    H6{
+        text-align:justify;
+    }
+	font-family: Arial, Helvetica, sans - serif;
+	margin: 20 px auto;
+	text-align: center;
+	font-size: 150% ;
+	background-image: url("https://www.bhmpics.com/downloads/snake-game-Wallpapers/8.snake-pass-4k-wallpaper-3.jpg");
+	background-color: green;
+	height: 800 px;
+	background-position: 100vw 110vh;
+	background-repeat: no - repeat;
+	background-size: cover;
+	height:60 vh;
+	width:100 vw;
+	overflow: hidden;
+}
+
+input {
+	font-size: 100% ;
+	text-align: center;
+	padding: 5 px 7 px;
+}
+
+canvas {
+	background-color: white;
+	border-radius: 20 px;
+	box-shadow: 3 px 5 px 6 px black;
+	margin-right: 40 px;
+}
+#scoreBox{
+    position: absolute;
+    top: 9px;
+    right: 200px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'New Tegomin', serif;
+}
